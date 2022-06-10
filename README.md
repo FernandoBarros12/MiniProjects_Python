@@ -1,1 +1,1 @@
-Just some mini Python projects from an Udemy course I found online.
+Just some mini-projects using Python from an Udemy course I found online at 4 A.M.
