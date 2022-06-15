@@ -18,7 +18,7 @@ He's really young right now so there's no much he can do, so here's a list of wh
 * pyjokes
     
 
-## Some error that you may have:
+## Some errors that you may have:
 * ModuleNotFoundError: No module named 'flask'
     * Solution: pip install Flask
 * AttributeError("Could not find PyAudio; chack installation")
