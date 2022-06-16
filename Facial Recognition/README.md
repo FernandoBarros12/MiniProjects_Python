@@ -7,9 +7,9 @@ Just put a picture of yourself inside the Resources/Employees directory in order
 # Execution
 Open the "Facial Recognition" dir, open a terminal and type:
 
-'''
+```
 py attendance.py
-'''
+```
 Press '0' to close the pop-up windows
 
 ## Libraries used
